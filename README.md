@@ -10,6 +10,7 @@ git clone https://github.com/yuktanandwani/CareViewApp cd CareViewApp
 POM Design Pattern, Inside src/pages folder :-
 
 ClientsPage - This Class contains Locators for Clients Page.
+
 LoginPage - This Class contains Locators for Login Page. 
 
 
@@ -18,3 +19,5 @@ src/tests Package :-
 NewClientsTest - This Class contains automation Test Cases for CareViewApp Technical assignment.
 
 drivers Folder - chromedriver.exe stored inside drivers folder.
+
+### Jars to be added in Project - selenium-server-4.7.2 and testng-7.7.1
